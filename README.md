@@ -19,15 +19,15 @@ Thais Lira, 30, moradora do extremo leste de São Paulo. Pedagoga especialista e
 ## 
 
 <div>
-  <a hreaf="https://thaislira.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"> 
+  <a href="https://instagram.com/t.lira_" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
   </a>
-  <a hreaf="https://www.linkedin.com/in/thais-lira-/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> 
-  </a>
-  <a hreaf="https://www.instagram.com/t.lira_/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"> 
-  </a>
+  <a href="https://www.linkedin.com/in/t-lira" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a> 
+  <a href="https://thaislira.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank">
+  </a>  
 </div>
 
 
